@@ -7,3 +7,6 @@
 *.dae
 data/*
 logs/*
+
+depth_prediction/depth_datasets/*
+depth_prediction/logs/*
